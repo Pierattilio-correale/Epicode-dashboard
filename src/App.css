@@ -11,3 +11,13 @@
 font-weight: 700;
 letter-spacing: -0.5px;
 }
+
+.sidebar-transition {
+  transition: width 0.3s ease;
+  overflow: hidden;
+}
+
+.iconHover:hover{
+  border-radius: 0.5em;
+  background-color: rgb(59, 59, 59);
+}
